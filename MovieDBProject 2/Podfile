@@ -1,0 +1,7 @@
+source "https://github.com/CocoaPods/Old-Specs"
+platform :ios, ‘7.0’
+target “MovieDBProject” do
+  # pod 'Kiwi'
+pod 'JLTMDbClient', '~> 0.2.0'
+
+end
